@@ -1,0 +1,6 @@
+/Rejector/obj/**
+
+/**/*.dll
+*.userprefs
+
+/Thermometer.zip
